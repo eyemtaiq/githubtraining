@@ -4,3 +4,6 @@ CHAt
 type option
 colors
 vibrant
+Dark mode
+video Calls
+silient Mode
